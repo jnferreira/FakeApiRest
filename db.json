@@ -1,0 +1,78 @@
+{
+    "time": 1629277415040,
+    "duration": 19,
+    "count": 1,
+    "data": {
+      "id": 40,
+      "brand": "FIAT",
+      "model": "Punto",
+      "adjustedValuation": 300.0,
+      "month": 1,
+      "year": 2001,
+      "kilometers": 123123,
+      "plateDate": null,
+      "bcaId": "5C4D36DA36E4FBB3462742FC33B3A1D9",
+      "tradeInPayload": {
+        "tradeInId": 0,
+        "features": {
+          "tradeInId": 40,
+          "plate": "2954SR",
+          "plateDate": "2001-1-01",
+          "bcaId": "5C4D36DA36E4FBB3462742FC33B3A1D9",
+          "kilometers": 123123,
+          "evaluation": 200.0,
+          "externalColor": "YELLO1",
+          "airConditioning": true,
+          "equipments": [
+            { "value": "ABS", "checked": true },
+            { "value": "HeatedSeats", "checked": true },
+            { "value": "RetractableElectricMirrors", "checked": false },
+            { "value": "AutoRadioWithCD", "checked": true },
+            { "value": "ElectricFrontGlass", "checked": false },
+            { "value": "ElectricallyAdjustableSeats", "checked": true },
+            { "value": "CruiseControl", "checked": false },
+            { "value": "NavigationSystem", "checked": false },
+            { "value": "Bluetooth", "checked": false },
+            { "value": "StabilityControl", "checked": false },
+            { "value": "XenonHeadlamps", "checked": false },
+            { "value": "AlloyWheels", "checked": true },
+            { "value": "OpeningGlassRoof", "checked": false },
+            { "value": "FrontParkingSensors", "checked": true },
+            { "value": "RearParkingSensors", "checked": false }
+          ],
+          "interiorColor": "PLAS"
+        },
+        "mechanicalAndGeneralStatus": {
+          "mechanicalStateList": [
+            { "radioGroupName": "EnginePerformance", "radioGroupValue": "GOOD" },
+            { "radioGroupName": "DrivePerformance", "radioGroupValue": "GOOD" },
+            { "radioGroupName": "ElectricalItems", "radioGroupValue": "GOOD" }
+          ],
+          "generalStatusList": [
+            { "radioGroupName": "ExteriorBodywork", "radioGroupValue": "GOOD" },
+            { "radioGroupName": "ExteriorGlass", "radioGroupValue": "GOOD" },
+            { "radioGroupName": "Interior", "radioGroupValue": "GOOD" },
+            { "radioGroupName": "BitsAndPieces", "radioGroupValue": "GOOD" }
+          ]
+        },
+        "additionalInformation": {
+          "vehicleOperation": [
+            { "value": "FinancedWithReserveOfPropert", "checked": true },
+            { "value": "renting", "checked": false },
+            { "value": "leasing", "checked": false },
+            { "value": "none", "checked": false }
+          ],
+          "accessories": [
+            { "value": "InstructionsManual", "checked": true },
+            { "value": "ServiceBook", "checked": true },
+            { "value": "SecondaryKey", "checked": true }
+          ]
+        },
+        "files": null,
+        "submitted": true
+      },
+      "version": "FIAT Punto 1.2 16V ELX (G) (M) (3P /5L) 80 cv (1999-2002)",
+      "submitted": true,
+      "licencePlate": "2954SR"
+    }
+  }
